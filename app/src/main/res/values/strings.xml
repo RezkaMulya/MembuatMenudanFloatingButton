@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">MembuatEvenAct2</string>
+    <string name="judul">LOGIN</string>
+    <string name="judul1">HOME</string>
     <string name="tEmail">Email</string>
     <string name="tPassword">Password</string>
     <string name="bsignin">Sig-In</string>
+    <string name="judul2">Daftar</string>
+    <string name="mDaftar">Pendaftaran</string>
+    <string name="Iddaftar">Daftar</string>
+    <string name="enama">Masukkan Nama</string>
+    <string name="eemail">Masukkan Email</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Password kembali</string>
+    <string name="ealamat">Masukkan Alamat</string>
 </resources>
